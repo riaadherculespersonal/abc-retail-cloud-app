@@ -1,5 +1,5 @@
 # ABCRetailByRH – Cloud Development B (CLDV6212) – Part 3 POE  
-By **Riaad Hercules (ST10258492)**
+By **Riaad Hercules **
 
 A complete cloud-backed retail web application built using **ASP.NET Core MVC**, integrated with **Azure SQL**, **Azure Storage (Tables, Queues, Blobs, Files)**, and **Azure Functions** for serverless order processing.  
 This project demonstrates full deployment to **Azure App Service**, including authentication, cart functionality, product catalogue, order pipeline, file uploads, and serverless compute.
@@ -150,7 +150,5 @@ All implementation logic, Azure configuration, architecture decisions, and sourc
 ## 🧑‍💻 Author
 
 **Riaad Hercules**  
-Student Number: **ST10258492**  
-Module: **Cloud Development B – CLDV6212**  
 2025
 
