@@ -8,11 +8,6 @@ This project demonstrates full deployment to **Azure App Service**, including au
 
 ## 🌐 Live System Links
 
-### 🔵 **Live Website (Azure App Service)**
-https://abcretailbyrhweb-buh2cvhzb3b9dkgv.southafricanorth-01.azurewebsites.net/
-
-### 🔵 **GitHub Repository**
-https://github.com/herculesriaadst10258492/ABCRetailByRH-CLDV6212P3
 
 ### 🔵 **Unlisted YouTube Video Demonstration**
 https://youtu.be/FjPzVC2yeM4
